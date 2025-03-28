@@ -1,5 +1,5 @@
 # Очень простой мессенджер на PHP 🐘
-
+![image](https://github.com/user-attachments/assets/cddbe650-15b6-45d8-94bb-1484369e665f)
 ## Требования
 - PHP 7 или выше
 - MySQL/MariaDB
